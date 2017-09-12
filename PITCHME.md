@@ -90,8 +90,8 @@ Presentación del curso 2017/18
 ---
 # Los míos ...
 ---
-1. Joan Boluda -> [Boluda.com](https://boluda.com)
-2. Oscar Feito -> [OscarFeito.com](http://www.oscarfeito.com/marketing/)
-3. Borja Girón -> [BorjaGiron.com](https://www.borjagiron.com)
-4. Jair Barragán -> [JairBarragan.com](https://www.jairbarragan.com)
-5. Carlos Sogorb -> [VentaInteligente.com](http://ventainteligente.com/quien-soy/) y [VentaCientifica.com](http://ventacientifica.com)
+	1. Joan Boluda -> [Boluda.com](https://boluda.com)
+	2. Oscar Feito -> [OscarFeito.com](http://www.oscarfeito.com/marketing/)
+	3. Borja Girón -> [BorjaGiron.com](https://www.borjagiron.com)
+	4. Jair Barragán -> [JairBarragan.com](https://www.jairbarragan.com)
+	5. Carlos Sogorb -> [VentaInteligente.com](http://ventainteligente.com/quien-soy/) y [VentaCientifica.com](http://ventacientifica.com)
