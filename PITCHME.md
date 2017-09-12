@@ -36,11 +36,11 @@ Presentación del curso 2017/18
 ## [¿Qué sabéis ahora?](https://socrative.com)
 ---
 # Os propongo un Reto
-- ¿Sois capaces de *crear una web*, ...|
-- ... con un *carrito de compras*, ...|
-- ... que se pueda *ver bien en un móvil*,... |
-- ... con un buen *contenido*,...|
-- ... y una buena *campaña de marketing*?|
+- ¿Sois capaces de *crear una web*,|
+- con un *carrito de compras*,|
+- que se pueda *ver bien en un móvil*,|
+- con un buen *contenido*,|
+- y una buena *campaña de marketing*?|
 
 ---?image=assets/omg.jpg&size=cover
 ---
