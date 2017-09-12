@@ -77,7 +77,7 @@ Presentación del curso 2017/18
 
 ---
 # ¿Cómo lo vamos a hacer?
----?image=assets/wordpress.jpg&size=cover
+---?image=assets/wordpress.png&size=cover
 ---
 > `Todo largo camino comienza con un solo paso.`
 ---
