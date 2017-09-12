@@ -76,12 +76,10 @@ Presentación del curso 2017/18
 - Analítica web.|
 
 ---
-# ¿Cómo lo vamos a hacer?
----?image=assets/wordpress.png&size=cover
----
 > `Todo largo camino comienza con un solo paso.`
 ---
-
+# ¿Cómo lo vamos a hacer?
+---?image=assets/wordpress.jpg&size=cover
 ---
 > `Con mis maestros he aprendido mucho; con mis colegas, más; con mis alumnos todavía más.`
 ---
